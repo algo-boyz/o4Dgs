@@ -1,8 +1,4 @@
-# o4Dgs Roadmap (revised)
-
-Nov 21, 2026 · @enigma
-
-## Goal and first milestone
+# o4Dgs Roadmap
 
 The first milestone is a vertical slice: load a static SPZ asset, give it temporal behavior, play it in Odin + Raylib at a controllable timestamp, and export and reload the animated asset without losing data.
 
